@@ -2,6 +2,9 @@
 
 Bulk delete GitHub repositories with a simple, easy to use script
 
+> [!WARNING]
+> By using this tool, you acknowledge and agree that you are solely responsible for the repositories you choose to delete. The developer accepts no responsibility for any data loss or damage that may occur. Use this tool at your own risk.
+
 ## Usage
 
 1. Create a GitHub Personal Access Token
